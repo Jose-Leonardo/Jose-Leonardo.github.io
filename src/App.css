@@ -1,0 +1,24 @@
+.Clima{
+  height: 400px;
+  width: 500px;
+  background-color: #87CEEB;
+  opacity: .9;
+  border-radius: 10px;
+}
+h3, .btn{
+  display: flex;
+  justify-content: center;
+}
+
+article{
+  display: flex;
+  flex-wrap: wrap;
+}
+.parte1{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding-bottom: 10px;
+}
